@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [175.68279, -37.87181]
+        },
+        "properties": {
+          "movie_name": "The Shire",
+          "real_name": "Matamata",
+          "picture":"Map_Assets/the_shire.jpg"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [174.77023, -37.44057]
+        },
+        "properties": {
+          "movie_name": "Weathertop",
+          "real_name": "Port Waikato",
+          "picture":"Map_Assets/weathertop.jpg"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [175.19340, -41.05722]
+        },
+        "properties": {
+          "movie_name": "Rivendell",
+          "real_name": "Kaitoke Regional Park",
+          "picture":"Map_Assets/rivendell.jpg"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [ 168.89269, -45.01145]
+        },
+        "properties": {
+          "movie_name": "The Argonath on the Anduin River",
+          "real_name": "Kawarau Gorge",
+          "picture": "Map_Assets/argonath.jpg"
+
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [175.63215, -39.15626]
+        },
+        "properties": {
+          "movie_name": "Mount Doom(Mordor)",
+          "real_name": "Mount Ngauruhoe",
+          "picture": "Map_Assets/mordor.jpg"
+
+        }
+      }
+    ]
+  }
